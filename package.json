@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [grunt-git (v1.0.3)](https://github.com/rubenv/grunt-git) [![npm package](https://img.shields.io/npm/v/npmtest-grunt-git.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-git.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-git)",
+    "description": "#### basic test coverage for  [grunt-git (v1.0.3)](https://github.com/rubenv/grunt-git)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-git.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-git.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-git)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "grunt-git": "*",

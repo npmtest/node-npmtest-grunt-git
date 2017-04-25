@@ -1,4 +1,7 @@
-# test coverage for  [grunt-git (v1.0.3)](https://github.com/rubenv/grunt-git)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-git.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-git.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-git)
+# npmtest-grunt-git
+
+#### basic test coverage for  [grunt-git (v1.0.3)](https://github.com/rubenv/grunt-git)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-git.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-git.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-git)
+
 #### Git commands for grunt.
 
 [![NPM](https://nodei.co/npm/grunt-git.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-git)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-git/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-git/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-git/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-git/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-git/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-git/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-git/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-git/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-git/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-git/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-git/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-git/build/coverage.html/index.html)
 
@@ -89,7 +92,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 
